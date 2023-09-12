@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Harsh Parashar](mailto:harsh.parashar@owasp.org)
+* [Shubham](mailto:shubham@owasp.org)
+* [Jitender Kumar](mailto:jitender.kumar@owasp.or)
