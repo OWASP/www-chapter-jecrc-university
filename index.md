@@ -9,7 +9,7 @@ meetup-group:
 ---
 # Welcome to OWASP JECRC University Chapter
 
-![OWASP Logo](https://i.imgur.com/029d3MB.png)
+![OWASP Logo](assets/images/OWASP_JECRC.png)
 
 ## About Us
 
@@ -53,4 +53,3 @@ We look forward to having you as part of our OWASP JECRC University Chapter comm
 
 Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
