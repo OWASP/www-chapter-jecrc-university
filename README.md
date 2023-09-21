@@ -1,6 +1,6 @@
 # Welcome to OWASP JECRC University Chapter 🚀
 
-![OWASP Logo](/assets/images/OWASP_JECRC.png)
+![OWASP Logo](https://i.imgur.com/029d3MB.png)
 
 🔐 Dive into the World of Cybersecurity with Us! 🔐
 
