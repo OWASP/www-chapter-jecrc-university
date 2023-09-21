@@ -9,7 +9,7 @@ meetup-group:
 ---
 # Welcome to OWASP JECRC University Chapter
 
-![OWASP Logo](owasp-logo.png)
+![OWASP Logo]([owasp-logo.png](https://i.imgur.com/029d3MB.png))
 
 ## About Us
 
