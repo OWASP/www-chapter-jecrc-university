@@ -14,7 +14,7 @@ At OWASP JECRC University Chapter, our mission is to:
 
 - **Foster a Culture of Security:** We believe in cultivating a culture of security within our community. We provide opportunities for individuals to learn, share, and collaborate on security-related topics.
 
-- **Offer Hands-On Learning:** Our chapter hosts workshops, conferences, Capture The Flag (CTF) challenges, and other events to provide practical, hands-on experience in the field of cybersecurity.
+- **Offer Hands-On Learning:** Our chapter hosts workshops, conferences, Capture The Flag (CTF) challenges and other events to provide practical, hands-on experience in the field of cybersecurity.
 
 - **Encourage Innovation:** We promote innovation by encouraging members to explore cutting-edge ideas and technologies. We actively support research and development in the field of cybersecurity.
 
@@ -34,7 +34,7 @@ At OWASP JECRC University Chapter, our mission is to:
 
 ## Get Involved
 
-Are you excited about cybersecurity and eager to make a difference? Here's how you can get involved with OWASP JECRC University Chapter:
+Are you excited about cybersecurity and eager to make a difference? Here's how you can get involved with the OWASP JECRC University Chapter:
 
 - **Become a Member:** Join our community of cybersecurity enthusiasts and professionals by becoming a chapter member. Membership is open to everyone interested in cybersecurity.
 
@@ -48,11 +48,12 @@ Are you excited about cybersecurity and eager to make a difference? Here's how y
 
 ## Contact Us
 
-Feel free to reach out to us if you have any questions, suggestions, or if you'd like to get involved. You can contact our chapter leaders:
+Feel free to reach out to us if you have any questions or suggestions, or if you'd like to get involved. You can contact our chapter leaders:
 
 - **Harsh Parashar**
   - *Email:* harsh.parashar@owasp.org
 
 - **Shubham**
   - *Email:* shubham@owasp.org
+
 We look forward to welcoming you to our OWASP JECRC University Chapter and embarking on a journey of cybersecurity excellence together!
