@@ -15,5 +15,5 @@ At OWASP JECRC University Chapter, our mission is to:
 - *Capture The Flag (CTF) Challenges:*
 
 - *Workshops and Training:*
-- 
+  
 We look forward to welcoming you to our OWASP JECRC University Chapter and embarking on a journey of cybersecurity excellence together!
