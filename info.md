@@ -46,14 +46,4 @@ Are you excited about cybersecurity and eager to make a difference? Here's how y
 
 - **Contribute to Research:** Engage in research projects related to cybersecurity and collaborate with other members to advance knowledge in the field.
 
-## Contact Us
-
-Feel free to reach out to us if you have any questions or suggestions, or if you'd like to get involved. You can contact our chapter leaders:
-
-- **Harsh Parashar**
-  - *Email:* harsh.parashar@owasp.org
-
-- **Shubham**
-  - *Email:* shubham@owasp.org
-
 We look forward to welcoming you to our OWASP JECRC University Chapter and embarking on a journey of cybersecurity excellence together!
