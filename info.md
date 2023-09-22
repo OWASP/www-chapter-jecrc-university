@@ -10,25 +10,24 @@ The Open Web Application Security Project (OWASP) is a globally recognized nonpr
 
 At OWASP JECRC University Chapter, our mission is to:
 
-- **Promote Cybersecurity Awareness:** We strive to raise awareness about the ever-evolving landscape of cybersecurity threats and challenges. Through our initiatives, we aim to empower individuals with the knowledge they need to defend against these threats.
+- **Promote Cybersecurity Awareness:**
 
-- **Foster a Culture of Security:** We believe in cultivating a culture of security within our community. We provide opportunities for individuals to learn, share, and collaborate on security-related topics.
+- **Foster a Culture of Security:** 
 
-- **Offer Hands-On Learning:** Our chapter hosts workshops, conferences, Capture The Flag (CTF) challenges and other events to provide practical, hands-on experience in the field of cybersecurity.
+- **Offer Hands-On Learning:** 
 
-- **Encourage Innovation:** We promote innovation by encouraging members to explore cutting-edge ideas and technologies. We actively support research and development in the field of cybersecurity.
+- **Encourage Innovation:** 
 
-- **Build a Supportive Community:** Our chapter is dedicated to creating a welcoming and supportive community of security enthusiasts, where members can network, learn, and grow professionally.
-
+- **Build a Supportive Community:** 
 ## What We Offer
 
-- **Capture The Flag (CTF) Challenges:** Participate in CTF competitions to test and enhance your hacking skills in a fun and educational environment.
+- **Capture The Flag (CTF) Challenges:** 
 
-- **Workshops and Training:** Join our workshops to gain practical knowledge and hands-on experience in various cybersecurity domains, such as web application security, network security, and more.
+- **Workshops and Training:** 
 
-- **Conferences and Talks:** Attend our conferences and talks featuring experts in the cybersecurity industry. Learn about the latest trends, vulnerabilities, and security best practices.
+- **Conferences and Talks:** 
 
-- **Networking Opportunities:** Connect with like-minded individuals passionate about cybersecurity. Network with professionals, students, and researchers in the field.
+- **Networking Opportunities:** 
 
 - **Social Media:** Follow us on [Twitter](link-to-twitter) and [LinkedIn](link-to-linkedin) for the latest cybersecurity updates, event announcements, and community highlights.
 
