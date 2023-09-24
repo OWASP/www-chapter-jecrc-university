@@ -3,7 +3,7 @@ title: OWASP Team
 layout:  Tabular
 tab: true
 order: 1
-tags: Team
+tags: JECRC-Chapter Team
 ---
 
 # OWASP Team Members 👥
