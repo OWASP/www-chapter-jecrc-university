@@ -1,9 +1,9 @@
 ---
-title: Example
-layout:  null
+title: OWASP Team
+layout:  Tabular
 tab: true
 order: 1
-tags: example-tag
+tags: Team
 ---
 
 # OWASP Team Members 👥
