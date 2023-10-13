@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP JECRC University
 tags: Security
 region: Asia
+country: India
 meetup-group:
 
 ---
