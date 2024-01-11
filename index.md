@@ -18,7 +18,7 @@ Welcome to the OWASP JECRC University Chapter—a thriving community dedicated t
 
 ### What is OWASP?
 
-The Open Web Application Security Project (OWASP) is a global nonprofit organization committed to improving the security of software. OWASP provides resources, tools, and guidelines to help organizations and individuals develop and maintain secure web applications and software systems. Its mission is to make software security visible so that individuals and organizations can make informed decisions about the risks associated with their software projects.
+The Open Worldwide Application Security Project (OWASP) is a global nonprofit organization committed to improving the security of software. OWASP provides resources, tools, and guidelines to help organizations and individuals develop and maintain secure web applications and software systems. Its mission is to make software security visible so that individuals and organizations can make informed decisions about the risks associated with their software projects.
 
 ### What We Represent
 
